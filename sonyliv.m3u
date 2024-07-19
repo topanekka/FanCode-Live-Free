@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="INDIA vs SRILANKA (HINDI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105328" group-title="ECS Hungary, 2024",Budapest Blinders vs Kashmir Budapest
+https://dai.google.com/linear/hls/event/izhzGz0JS1mwqXB_njqyMg/master.m3u8
+#EXTINF:-1 tvg-name="INDIA vs SRILANKA (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105050" group-title="ICC CWC League 2, 2023-27",Oman vs Namibia
+https://dai.google.com/linear/hls/event/ELg9Tc8QRROzZcjWahWZIA/master.m3u8
+#EXTINF:-1 tvg-name="INDIA vs SRILANKA (TAMIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103786" group-title="Lanka Premier League, 2024",Jaffna Kings vs Galle Marvels
+https://dai.google.com/linear/hls/event/qBsc7QfxT82IIyaIcLsddg/master.m3u8
