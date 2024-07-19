@@ -7,31 +7,18 @@
     {
       "event_catagory": "cricket",
       "event_name": "INDIA vs SRILANKA",
-      "match_id": 105328,
-      "match_name": "INDIA vs SRILANKA",
-      "team_1": "India",
-      "team_1_flag": "https://thumbs.dreamstime.com/b/india-flag-circle-shape-isolated-png-transparent-background-symbol-template-banner-card-advertising-magazine-239294012.jpg",
-      "team_2": "Srilanka",
       "team_2_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHq-73D1BWxNvm-ORnnFWV2FPt4wRSBpCNyQ&s",
       "stream_link": "https://dai.google.com/linear/hls/event/izhzGz0JS1mwqXB_njqyMg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
       "event_name": "INDIA vs SRILANKA",
-      "match_id": 105050,
-      "match_name": "INDIA vs SRILANKA",
-      "team_1": "India",
       "team_1_flag": "https://thumbs.dreamstime.com/b/india-flag-circle-shape-isolated-png-transparent-background-symbol-template-banner-card-advertising-magazine-239294012.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ELg9Tc8QRROzZcjWahWZIA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
       "event_name": "INDIA vs SRILANKA",
-      "match_id": 105208,
-      "match_name": "INDIA vs SRILANKA",
-      "team_1": "India",
-      "team_1_flag": "https://thumbs.dreamstime.com/b/india-flag-circle-shape-isolated-png-transparent-background-symbol-template-banner-card-advertising-magazine-239294012.jpg",
-      "team_2": "srilanka",
       "team_2_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHq-73D1BWxNvm-ORnnFWV2FPt4wRSBpCNyQ&s",
       "stream_link": "https://dai.google.com/linear/hls/event/mzJszWl6T1ud1hIVcjHllg/master.m3u8"
     }
