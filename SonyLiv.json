@@ -5,19 +5,16 @@
   "updated_on": "18-07-2024 on 6:13:08 PM \ud83c\udf19",
   "channels": [
     {
-      "event_name": "INDIA vs SRILANKA",
+      "event_name": "HINDI LINK",
       "stream_link": "https://dai.google.com/linear/hls/event/izhzGz0JS1mwqXB_njqyMg/master.m3u8"
     },
     {
      
-      "event_name": "INDIA vs SRILANKA",
-      "team_1_flag": "https://thumbs.dreamstime.com/b/india-flag-circle-shape-isolated-png-transparent-background-symbol-template-banner-card-advertising-magazine-239294012.jpg",
+      "event_name": "ENGLISH LINK",
       "stream_link": "https://dai.google.com/linear/hls/event/ELg9Tc8QRROzZcjWahWZIA/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "INDIA vs SRILANKA",
-      "team_2_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHq-73D1BWxNvm-ORnnFWV2FPt4wRSBpCNyQ&s",
+      "event_name": "TAMIL",
       "stream_link": "https://dai.google.com/linear/hls/event/mzJszWl6T1ud1hIVcjHllg/master.m3u8"
     }
   ]
